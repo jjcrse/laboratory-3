@@ -11,7 +11,7 @@ class ValorantList extends HTMLElement {
             const respuestaDeMiApi = await getCharactersFromValorantApi();
             console.log(respuestaDeMiApi)
             this.shadowRoot.innerHTML = `
-                <h2>Rick List</h2>
+                <h2>Funciona o que?</h2>
                 <div>
                      ${respuestaDeMiApi.agents.map(()=>{
                         //aqui saco la informacion de agents del API de valorant
