@@ -11,3 +11,5 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "dist"]
 }
+
+//Ahi puse las notas pa saber que es cada coas
