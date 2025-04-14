@@ -1,1 +1,1 @@
-Decidi cambiar el api por lo complicada que estaba
+Lab 3 con notas para que te acuerdes en el parcial a como utilizar  un api y como customizarla con web components y el manejo de root.js 
